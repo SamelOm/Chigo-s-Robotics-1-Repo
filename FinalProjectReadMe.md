@@ -101,17 +101,9 @@ Robotics_Project2025/
 
 ---
 
-## 🔁 Peer Review Section
 
-- This documentation was reviewed by: **[Team _______________]**
-- We have also reviewed the documentation of: **[Team _______________]**
-
-**Reviewer Notes:**
-> [Your peer review team can insert constructive feedback or suggestions here.]
-
----
 
 ## 👥 Authors
 
 - Chigozie Eke (Lead Developer, Gesture Control & Robotics Integration)
-- [Team Member Name] – [Role, if applicable]
+- Om Samel – (System Architect, Vision Streaming & Cross-Platform Integration)
